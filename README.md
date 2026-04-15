@@ -163,7 +163,7 @@ This application simulates a real-world food delivery system where:
 │   ├── package.json               # Frontend dependencies
 │   └── tailwind.config.js         # Tailwind configuration
 │
-└── README.md```                      # Project documentation
+└── README.md                      # Project documentation
 ---
 
 ## Setup Instructions
