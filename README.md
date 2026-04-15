@@ -220,7 +220,7 @@ npm start
 
 All APIs are documented using Swagger:
 
-👉 http://127.0.0.1:9000/docs  
+http://127.0.0.1:9000/docs  
 
 ---
 
